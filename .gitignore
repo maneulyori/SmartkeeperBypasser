@@ -1,0 +1,16 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Include Library.
+!lib/*
+
+# Exclude bin and doc/
+bin/*
+doc/*
+
+*.orig
+/bin
